@@ -45,5 +45,7 @@ eval "$(ssh-agent -s)" (Comando general para evaluar clave en caso no sirva la o
 ssh-add ~/.ssh/id_rsa (agregar acceso a clave)
 
 --1er link de github--
+  
 git remote -v (ver estatus en github)
+  
 --3er link de github--
